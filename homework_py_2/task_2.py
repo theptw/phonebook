@@ -21,10 +21,3 @@ while n <= num:
     factor = 1
 
 print(result)
-
-
-
-
-    
-    
-    
